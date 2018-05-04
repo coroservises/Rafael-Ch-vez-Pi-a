@@ -1,0 +1,41 @@
+
+body{
+	margin: 0;
+}
+header{
+    background-image: url(../img/back5.jpg);
+	padding: 10px;
+	font-size: 26px;
+}
+h1{
+	color: #FFA500;
+	font-size: 30px;
+	margin: 30px;
+	text-align: center;
+	font-family: : Arial;
+	background-color: #DCDCDC;
+}
+h5{
+	color: #FF0000;
+	font-size: 50px;
+	margin: 30px;
+	font-family: : Arial;
+	background-color: #DCDCDC;
+}
+h2{
+	font-size: 20px;
+	margin: 30px;
+	font-family: : Arial;
+}
+p{
+	font-size: 20px;
+	margin: 100px;
+	font-family: : Arial;
+	text-align: justify;
+}
+
+footer{
+	background-color: #FFC0CB;
+	padding: 40px; 
+	clear: both;
+}

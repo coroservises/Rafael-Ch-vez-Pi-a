@@ -1,0 +1,42 @@
+
+body{
+	margin: 0;
+}
+header{
+background-color: #FFC0CB;
+	padding: 10px;
+	font-family: "Century Gothic"
+	font-size: 26px;
+	font-style: normal;
+}
+h1{
+	font-family: Marseline;
+	color: black;
+	font-size: 66px;
+	margin: 30px;
+	text-align: center;
+}
+h2{
+	color: #FF69B4;
+	font-size: 40px;
+	margin: 30px;
+}
+h5{
+	color: #00008B;
+	font-size: 20px;
+	margin: 30px;
+}
+p{
+	color: #4682B4;
+	font-size: 20px;
+	margin: 30px;
+	font-style: normal;
+}
+.clase1{
+	float: left;
+}
+footer{
+	background-image: url(../img/pastel.jpg);
+	padding: 40px; 
+	clear: both;
+}

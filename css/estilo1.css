@@ -1,0 +1,44 @@
+
+body{
+	margin: 0;
+	background-image: url(../img/bosque.jpg);
+}
+header{
+	padding: 10px;
+	font-size: 26px;
+}
+h1{
+	color: white;
+	font-size: 60px;
+	text-align: center;
+	font-family: : Arial;
+	background-color: #9400D3;
+}
+h2{
+	color: white;
+	font-size: 30px;
+	font-family: Arial;
+	background-color: #FFD700;
+}
+li a{
+	 	
+	display: block;/*Visualización de items*/
+	color: white;
+	font-size: 30px;
+	text-decoration: none;
+	margin: 0px;
+	margin-bottom: 15px;
+	font-family: : Arial;
+	background-color: #FF69B4;
+}
+section{
+	margin-left: 15%;
+	margin-right: 15%;
+	background-color: #FFE4B5;
+}
+#Lista{
+	list-style-type: none;
+	padding: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+}

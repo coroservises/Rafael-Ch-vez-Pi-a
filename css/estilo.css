@@ -1,0 +1,48 @@
+@font-face{
+	font-family: Marseline;
+	src:url(../fonts/Marseline.ttf);
+}
+body{
+	margin: 0;
+}
+header{
+background-color: #00CED1;
+	padding: 10px;
+	font-family: "Century Gothic"
+	font-size: 26px;
+}
+h1{
+	font-family: Marseline;
+	color: white;
+	font-size: 66px;
+	margin: 30px;
+	text-align: center;
+}
+h2{
+	color: #1E90FF;
+	font-size: 40px;
+	margin: 30px;
+}
+p{
+	color: black;
+	font-size: 20px;
+	margin: 30px;
+}
+strong{
+	color: black;
+	font-size: 20px;
+	margin: 30px;
+}
+
+	footer{
+	font-size: 35px;
+	clear: both; /*Limpia float*/
+	background-color: #00CED1;
+	padding: 30px;
+	text-align: center;
+}
+
+.centraricon{
+	padding-right: 60px;
+}
+}
